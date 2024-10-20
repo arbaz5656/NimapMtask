@@ -143,4 +143,5 @@ This is a **Client-Project Management API** built with Django and Django REST Fr
       "created_by": "Ganesh"
   }
   ```
+![Screenshot (288)](https://github.com/user-attachments/assets/06643baf-f7e4-47c9-953a-ec931e029615)
 

@@ -23,3 +23,33 @@ This is a **Client-Project Management API** built with Django and Django REST Fr
    ```bash
    git clone https://github.com/arbaz5656/NimapMtask.git
    cd NimapMtask
+   Create and Activate a Virtual Environment:
+
+bash
+Copy code
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+Install Dependencies:
+
+bash
+Copy code
+pip install -r requirements.txt
+Database Setup:
+
+Set up MySQL/PostgreSQL, and create the required database.
+Update DATABASES settings in settings.py with your database configuration.
+Migrate Database:
+
+bash
+Copy code
+python manage.py migrate
+Create Superuser:
+
+bash
+Copy code
+python manage.py createsuperuser
+Run the Development Server:
+
+bash
+Copy code
+python manage.py runserver

@@ -23,7 +23,7 @@ This is a **Client-Project Management API** built with Django and Django REST Fr
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/arbaz5656/NimapMtask.git
-   cd your-repo-name
+   cd NimapMtask
    ```
 
 2. **Create and activate a virtual environment:**
